@@ -41,11 +41,10 @@
   - 48시간 게임잼 내 RPC 및 동기화 컴포넌트를 활용한 안정적인 실시간 멀티플레이 환경 구축
 
 ---
-
 ### 📊 GitHub Stats
 
-![Jun-Hyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoman4233&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whoman4233&layout=compact&theme=radical)
+![Jun-Hyeong's GitHub stats](https://github-readme-stats.github.io/github-readme-stats/api?username=whoman4233&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.github.io/github-readme-stats/api/top-langs/?username=whoman4233&layout=compact&theme=dark)
 
 ---
 
