@@ -35,7 +35,7 @@
   - **Architecture:** 5가지 이상의 디자인 패턴을 활용한 확장 가능한 게임 구조 설계
   - **Refactoring:** Manager 클래스의 책임을 분리(SRP)하고 EventBus를 도입하여 유지보수성 획기적 개선
 
-#### 🌐 [Last Way Out] 멀티플레이 로그라이크
+#### 🌐 [Last Way Out] 멀티플레이 뱀서라이크
 - **Role:** Photon PUN2 기반 네트워크 동기화 및 플레이어/적 시스템 구현
 - **Key Achievements:**
   - 48시간 게임잼 내 RPC 및 동기화 컴포넌트를 활용한 안정적인 실시간 멀티플레이 환경 구축
