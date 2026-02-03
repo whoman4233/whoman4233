@@ -44,8 +44,8 @@
 
 ### 📊 GitHub Stats
 
-![Jun-Hyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=[본인의깃허브ID]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[본인의깃허브ID]&layout=compact&theme=radical)
+![Jun-Hyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=github.com/whoman4233&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/whoman4233&layout=compact&theme=radical)
 
 ---
 
